@@ -14,3 +14,4 @@ To solve this, we will provide an independent collection and presentation of the
 
 ### More certainty
 Once completed, we will have an independent verification of the data presented by each nation, which can be compared alongside the official government statistics.  This independent data could help give investors peace of mind, as well as make adjustment to the perceived risk of investing in a country.  However, there will still be some uncertainty as some data that would typically be easily collected in other countries, for example, things like transport and healthcare, could not be gleaned from the internet. Moreover, to assure investors that the index is not a “black box”, we would be transparent in the data calculations, data set, and the assumptions used.  
+testing update
