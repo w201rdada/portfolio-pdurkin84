@@ -1,24 +1,14 @@
-# My first cool idea {#slug-one}
+# Creating a Price Index in the Middle East
 
 #### Keywords
 
-yaba, daba, do
-
+CPI, Middle East,
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Unlike many western countries, whose governments have historically collected large quantities of data, the Middle East has a limited collection over a much shorter period.  While many basic economic statistics are collected by these countries, they may be considered suspect by external investors who would see most of the governments of the region as being biased about the presentation of these data.  As well, some of the data is not collected in a timely manner.
 
-## A middle.
+The consumer price index (CPI) and the inflation rate are often seen as critical information for investment decisions.  (CPI is a measure of price changes in household goods such as foods, services, and transport, and inflation is the annual percentage change in CPI.)  Given recent economic changes (low oil prices) these countries are now looking for new sources of revenue, which may require funding from external investors.  However, investors may feel suspicious of the national data and as a result not be comfortable investing, or if they do decide to invest, they could require higher returns to compensate for higher risk. 
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+To solve this, we will provide an independent collection and presentation of the price data,  that is produced on a monthly basis.  The first step will be to create price baskets of goods for the countries to be covered.  Like many countries around the world, Middle East countries are moving towards online shopping, and so the price of many goods is available on the internet.  We will implement a weekly scrape of the sites and begin a database of product prices.  Given the multi-cultural makeup of some these countries and the vast disparity between incomes classes, it will be prudent to create multiple baskets reflecting typical buying patterns within the groups.  While service prices are more complicated, things like tuition can be easily scraped from websites as well. 
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
-
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
-
-## An end.
-
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Once completed, we will have an independent verification of the data presented by each nation, which can be compared alongside the official government statistics.  This independent data could help give investors peace of mind, as well as make adjustment to the perceived risk of investing in a country.  However, there will still be some uncertainty as some data that would typically be easily collected in other countries, for example, things like transport and healthcare, could not be gleaned from the internet. Moreover, to assure investors that the index is not a “black box”, we would be transparent in the data calculations, data set, and the assumptions used.  
