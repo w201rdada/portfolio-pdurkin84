@@ -4,7 +4,7 @@
 
 CPI, Middle East,
 
-### Choosing to invest in the Middle East
+### Choosing to invest in the Middle East?
 Foreign investment in Middle Eastern countries is often seen as higher risk due to a lack of trust in economic data.  This is disadvantageous to both the investors and the countries that need the investment.  Unlike many western countries, whose governments have historically collected large quantities of data, the Middle East has a limited collection over a much shorter period.  While many basic economic statistics are collected by these countries, they may be considered suspect by external investors who would see most of the governments of the region as being biased about the presentation of these data.  As well, some of the data is not collected in a timely manner.
 
 The consumer price index (CPI) and the inflation rate are often seen as critical information for investment decisions.  (CPI is a measure of price changes in household goods such as foods, services, and transport, and inflation is the annual percentage change in CPI.)  Given recent economic changes (low oil prices) these countries are now looking for new sources of revenue, which may require funding from external investors.  However, investors may feel suspicious of the national data and as a result not be comfortable investing, or if they do decide to invest, they could require higher returns to compensate for higher risk. 
@@ -14,7 +14,5 @@ To solve this, we will provide an independent collection and presentation of the
 
 ### More certainty
 Once completed, we will have an independent verification of the data presented by each nation, which can be compared alongside the official government statistics.  This independent data could help give investors peace of mind, as well as make adjustment to the perceived risk of investing in a country.  However, there will still be some uncertainty as some data that would typically be easily collected in other countries, for example, things like transport and healthcare, could not be gleaned from the internet. Moreover, to assure investors that the index is not a “black box”, we would be transparent in the data calculations, data set, and the assumptions used.
-
-Our target
 
 Finally, this can be implemented for any nation but would be especially useful in frontier and emerging markets where there is less surety of unbiased government publications but still plenty of online data to use for validation.
