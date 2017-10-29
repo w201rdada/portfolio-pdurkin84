@@ -4,7 +4,7 @@
 
 Voice loss, ALS, Parkinson’s, Motor Neuron, voice synthesis
 
-Imagine you are told that in the future you will stop talking.  You will never again share a joke, advise your children or tell your spouse that you love them.  Some diseases such as Parkinson’s (PD), ALS and Motor Neuron Disease have symptoms that include the loss of the person’s voice as the disease progresses.  As described by Professor Stephen Hawking about his Motor Neuron disease, the loss of voice is “one of the most frightening and isolating aspects of the illness”.
+Imagine you are told that in the future you will stop talking.  You will never again share a joke, advise your children or tell your spouse that you love them.  Some diseases such as Parkinson’s Disease (PD), ALS and Motor Neuron Disease have symptoms that include the loss of the person’s voice as the disease progresses.  As described by Professor Stephen Hawking about his Motor Neuron disease, the loss of voice is “one of the most frightening and isolating aspects of the illness”.
 
 Current technology has some support, for example, voice amplification or alternative input methods (where keyboards are manipulated by whatever muscles are still under control of the user).  But what if we could make the input methods seamless?
 
