@@ -9,7 +9,7 @@ Imagine you are told that in the future you will stop talking.  You will never a
 Current technology has some support, for example, voice amplification or alternative input methods (where keyboards are manipulated by whatever muscles are still under control of the user).  But what if we could make the input methods seamless?
 
 
-## We can give you back your voice
+## Can we give you back your voice?
 
 Advances in technologies such as machine learning, big data, natural language processing and voice synthesis can be used to measure a patients voice and reproduce it even after it has become too silent or slurred to be understood.  In the earlier stages of these diseases, while the individual can communicate effectively, sensors on and around their body can be used to record the movements of muscles and face, sounds, and vibrations in the throat.
 
