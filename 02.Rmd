@@ -20,5 +20,5 @@ The solution can record typical and known vocabulary, building a “language mod
 
 While experiencing a disease that causes loss of voice is never going to be pleasant, this solution could have a groundbreaking psychological impact as it means that the sufferer does not end up isolated in the last few months or years of their life.  Also, it lends itself to future innovations such as brain-computer interface (BCI), which could be leveraged to directly interface with the system.
 
-For the moment, at the end of some of these diseases, it may not be possible anymore to read the signals from the patient.  At that point, the system can switch to more traditional methods involving alternative-input methods.  The learned voice synthesis, speech patterns and vocabulary can continue to be utilized allowing the person to speak with their own voice and words, keeping them part of the family and society.
+Currently, the solution may not work for all sufferers, as towards the end of some of these diseases it may no longer be possible to read the signals from the patient.  At that point, the system can switch to the traditional alternative-input methods.  However, the learned voice synthesis, speech patterns and vocabulary can  continue to be utilized allowing the person to speak with their own voice and words, keeping them part of the family and society.
 
