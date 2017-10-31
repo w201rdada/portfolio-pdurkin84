@@ -1,8 +1,10 @@
-# Giving a voice to the voiceless {#speech-learning-synthesis}
+# Giving a voice to the voiceless {#lost-voice-synthesis}
 
 #### Keywords
 
 Voice loss, ALS, Parkinson’s, Motor Neuron, voice synthesis
+
+## Will you go quietly?
 
 Imagine you are told that in the future you will stop talking.  You will never again share a joke, advise your children or tell your spouse that you love them.  Some diseases such as Parkinson’s Disease (PD), ALS and Motor Neuron Disease have symptoms that include the loss of the person’s voice as the disease progresses.  As described by Professor Stephen Hawking about his Motor Neuron disease, the loss of voice is “one of the most frightening and isolating aspects of the illness”.
 
@@ -19,6 +21,8 @@ The solution can record typical and known vocabulary, building a “language mod
 ## The impact
 
 While experiencing a disease that causes loss of voice is never going to be pleasant, this solution could have a groundbreaking psychological impact as it means that the sufferer does not end up isolated in the last few months or years of their life.  Also, it lends itself to future innovations such as brain-computer interface (BCI), which could be leveraged to directly interface with the system.
+
+There are definite performance considerations here mainly for the function to enhance the voice.  It would be tedious to have to wait several seconds (or longer) for the enhanced voice to be returned.  There are many technological optimizations that could help to solve this, but ultimately they boil down to having a low latency between the sending of signals from the user's devices and the returned speech from the system.
 
 Currently, the solution may not work for all sufferers, as towards the end of some of these diseases it may no longer be possible to read the signals from the patient.  At that point, the system can switch to the traditional alternative-input methods.  However, the learned voice synthesis, speech patterns and vocabulary can  continue to be utilized allowing the person to speak with their own voice and words, keeping them part of the family and society.
 
