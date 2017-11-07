@@ -13,20 +13,19 @@ Current technology has some support, for example, voice amplification or alterna
 
 ## Can we give you back your voice?
 
-Advances in technologies such as machine learning, natural language processing and voice synthesis can be used to measure a patients voice and reproduce it even after it has become too silent or slurred to be understood.  In the earlier stages of these diseases, while the individual can communicate effectively, sensors on and around their body can be used to record the movements of muscles and face, sounds, and vibrations in the throat.
+Advances in technologies such as machine learning, natural language processing and voice synthesis can be used to measure a patients voice and reproduce it even after it has become too silent or slurred to be understood.  In the earlier stages of these diseases, while the individual can communicate effectively, discrete sensors on and around their body can be used to record the movements of muscles and face, sounds, and vibrations in the throat.
 
-The solution can record typical and known vocabulary, building a “language model” similar to that built by the SwiftKey team for Professor Stephen Hawking.  Millions, if not billions, of data points will be stored in a machine learning system that will be able to determine, not just how the person’s body forms the words, but also their vocabulary, colloquialisms and the sound of their voice.  As the patient’s voice begins to fade due to the progression of the disease, a function to enhance the voice is enabled, allowing the user to remain in communication with the world around them.
+The solution can record typical and known vocabulary, building a “language model” similar to that built by the SwiftKey team for Professor Stephen Hawking.  Millions, if not billions, of data points, will be stored in a machine learning system that will be able to determine, not just how the person’s body forms the words and the changes to this as the disease progresses, but also their vocabulary, colloquialisms and the sound of their voice.  As the patient’s voice begins to fade due to the progression of the disease, a function to enhance the voice is enabled, allowing the user to remain in communication with the world around them.
 
-We can also hope that with the machine learning algorithm may support the loss of verbal fluency (forgetting words) that is common in PD.  The solution could predict words based on conversation context and previous usage.
+We can also hope that the machine learning algorithm may support the loss of verbal fluency (forgetting words) that is common in PD.  The solution could predict words based on conversation context and previous usage.
 
 
 ## The impact
 
 While experiencing a disease that causes loss of voice is never going to be pleasant, this solution could have a groundbreaking psychological impact as it means that the sufferer does not end up isolated in the last few months or years of their life.  Also, it lends itself to future innovations such as brain-computer interface (BCI), which could be leveraged to directly interface with the system.
 
-There are definite performance considerations particularly for the function to enhance the voice.  It would be tedious to have to wait several seconds (or longer) for the enhanced voice to be played.  There are many technological optimizations that can help to solve this; they boil down to having a low latency between the user's devices and the returned speech.
+Any implementation will require an eclectic group of skills, for example, to ensure that the design is not impeding the wearer's lifestyle (particularly while they are still active), that the processing of data is optimal, and the latency in the enhanced voice is near real-time.
 
-Also while individualized predictive words may be accurate if the user has forgotten the word they may not be able to confirm if it is correct.  Only implementation and testing will establish if this is useful.
+Currently, the solution may not work for all sufferers, as towards the end of some of these diseases it may no longer be possible to read the signals from the patient.  At that point, the system can switch to the traditional alternative-input methods.  However, the learned voice synthesis, speech patterns and vocabulary can continue to be utilized allowing the person to speak with their own voice and words, keeping them part of the family and society.
 
-Currently, the solution may not work for all sufferers, as towards the end of some of these diseases it may no longer be possible to read the signals from the patient.  At that point, the system can switch to the traditional alternative-input methods.  However, the learned voice synthesis, speech patterns and vocabulary can  continue to be utilized allowing the person to speak with their own voice and words, keeping them part of the family and society.
-
+ 
