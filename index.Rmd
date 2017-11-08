@@ -26,12 +26,12 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 ```
 
 ### Abstract of my first cool idea
-For anyone choosing to invest in frontier and emerging economies, there is a risk due to the governments of these nations being suspect in the statistical data they publish.  We will provide a second calculation for some of the crucial economic numbers to support or refute those of the government so that investors can feel more comfortable about their choice to invest or not.
+For anyone choosing to invest in frontier and emerging economies, there is a risk due to the governments of these nations being suspect in the statistical data they publish.  We provide a solution to vet the critical economic numbers and support or refute those of the governments.  This will allow investors to be better informed both about the numbers and the reliability of the society.
 
 ### Abstract of my second cool idea
 
 
-Anyone suffering from a degenerative neurological disease is going to lose their voice eventually, however, we can build a tool to reduce the impact of this.  Using a combination of existing technologies, we can build a solution that uses recordings of the person's own voice to enhance their fading voice.
+Anyone suffering from a degenerative neurological disease is going to lose their voice eventually.  Our solution will build a tool to reduce the impact of this.  Using a combination of existing technologies, we can reenforce the weakening speech with a person own voice and vocabulary.
 
   
 ### Abstract of my third cool idea
