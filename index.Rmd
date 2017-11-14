@@ -14,32 +14,17 @@ library(magrittr)
 
 # Welcome!
 
-<!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
-```
-
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-<p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
-```
 
 ### Abstract of my first cool idea
-For anyone choosing to invest in frontier and emerging economies, there is a risk due to the governments of these nations being suspect in the statistical data they publish.  We provide a solution to vet the critical economic numbers and support or refute those of the governments.  This will allow investors to be better informed both about the numbers and the reliability of the society.
+
+Investing in less developed countries and markets can provide investors with extra returns. But with the additional returns, comes additional risk. One problem with investing in frontier markets is that key macroeconomic data is not always readily available, timely and independent from government officials, making it difficult for investors, and others, to get a clear view of the economy.  We will create independent datasets, using publicly available online data. We focus on Middle East countries, where the population is relatively wealthy and online shopping is gaining more traction. Using published data from major grocery stores, online shopping sites and other services, we aim to create a key dataset, such as a consumer price index, which can be used to analyze inflation trends and business cycles.
 
 ### Abstract of my second cool idea
 
-
-Anyone suffering from a degenerative neurological disease is going to lose their voice eventually.  Our solution will build a tool to reduce the impact of this.  Using a combination of existing technologies, we can reenforce the weakening speech with a person own voice and vocabulary.
-
-  
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+A sad fact to anyone suffering from a degenerative neurological disease, such as Parkinson’s Disease (PD) or ALS, is that they will lose their voice eventually. To lessen this impact of these diseases, our idea is to design a tool, building on current technology and using data science concepts that will improve the patient’s quality of life through voice simulation.
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+The author is a long in the tooth technology specialist who has had many areas of specialty over a varied career.
 
 *Updated: `r Sys.Date()`*
