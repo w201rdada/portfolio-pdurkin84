@@ -25,6 +25,6 @@ A sad fact to anyone suffering from a degenerative neurological disease, such as
 
 ## About the author
 
-The author is a long in the tooth technology specialist who has had many areas of specialty over a varied career.
+The author is a long in the tooth technology acolyte who has had many areas of specialty over a varied career.
 
 *Updated: `r Sys.Date()`*
