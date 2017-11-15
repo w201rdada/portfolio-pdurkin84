@@ -1,10 +1,10 @@
-Voice to the voiceless {#lostvoicesynthesis}
+# Voice to the voiceless {#lostvoicesynthesis}
 
 #### Keywords
 
 Voice loss, ALS, Parkinson’s, Motor Neuron, voice synthesis, machine learning, langue model, quality of life
 
-## Going quietly?
+## Going quietly
 
 Imagine you are told that in the future you will stop talking, never again to share a joke, advise your children or tell your spouse that you love them. Some diseases such as Parkinson’s Disease (PD), ALS and Motor Neuron Disease have such symptoms that include the loss of the person’s voice as the disease progresses. As described by Professor Stephen Hawking, the loss of voice his voice due to his motor neuron disease is “one of the most frightening and isolating aspects of the illness”.
 
