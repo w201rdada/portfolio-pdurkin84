@@ -1,31 +1,28 @@
-# Giving a voice to the voiceless {#lost-voice-synthesis}
+Voice to the voiceless {#lostvoicesynthesis}
 
 #### Keywords
 
-Voice loss, ALS, Parkinson’s, Motor Neuron, voice synthesis
+Voice loss, ALS, Parkinson’s, Motor Neuron, voice synthesis, machine learning, langue model, quality of life
 
-## Will you go quietly?
+## Going quietly?
 
-Imagine you are told that in the future you will stop talking.  You will never again share a joke, advise your children or tell your spouse that you love them.  Some diseases such as Parkinson’s Disease (PD), ALS and Motor Neuron Disease have symptoms that include the loss of the person’s voice as the disease progresses.  As described by Professor Stephen Hawking about his Motor Neuron disease, the loss of voice is “one of the most frightening and isolating aspects of the illness”.
+Imagine you are told that in the future you will stop talking, never again to share a joke, advise your children or tell your spouse that you love them. Some diseases such as Parkinson’s Disease (PD), ALS and Motor Neuron Disease have such symptoms that include the loss of the person’s voice as the disease progresses. As described by Professor Stephen Hawking, the loss of voice his voice due to his motor neuron disease is “one of the most frightening and isolating aspects of the illness”.
 
-Current technology has some support, for example, voice amplification or alternative input methods (where keyboards are manipulated by whatever muscles are still under control of the user).  But what if we could make the input methods seamless?
+Current technology provides some support for these patients: for example, there are devices that provide voice amplification or alternative input methods (where keyboards are manipulated by whatever muscles are still under control of the user). Our idea is to use a combination of existing technologies and machine learning, to create a seamless solution that will amplify a patient’s deteriorating speech with a person’s own voice and vocabulary.
 
+## Return of voice: lost voice synthesis
 
-## Can we give you back your voice?
+Advances in technologies such as machine learning, natural language processing, and voice synthesis can be used to measure a patient’s voice and reproduce it even after it has become too silent or slurred to be understood. In the earlier stages of these diseases, while the individual can communicate effectively, discrete sensors on and around the body can be used to record the movements of muscles and face, sounds, and vibrations in the throat.
 
-Advances in technologies such as machine learning, natural language processing and voice synthesis can be used to measure a patients voice and reproduce it even after it has become too silent or slurred to be understood.  In the earlier stages of these diseases, while the individual can communicate effectively, discrete sensors on and around their body can be used to record the movements of muscles and face, sounds, and vibrations in the throat.
+The goal is to create a database of the patient’s typical speech patterns and vocabulary, building a “language model” similar to that built by the SwiftKey team for Professor Stephen Hawking. Millions, if not billions, of data points, will be stored in a machine learning system that will be able to determine, not just how the person’s body forms the words but also their vocabulary, colloquialisms and the sound of their voice. The system will also recognize changes in voice patterns as the disease progresses. 
 
-The solution can record typical and known vocabulary, building a “language model” similar to that built by the SwiftKey team for Professor Stephen Hawking.  Millions, if not billions, of data points, will be stored in a machine learning system that will be able to determine, not just how the person’s body forms the words and the changes to this as the disease progresses, but also their vocabulary, colloquialisms and the sound of their voice.  As the patient’s voice begins to fade due to the progression of the disease, a function to enhance the voice is enabled, allowing the user to remain in communication with the world around them.
+In the later stages of the disease, when the patient’s voice fades, a function to enhance the person’s voice is enabled, allowing the user to remain in communication with the world around them. We also believe that the machine learning algorithm may support the loss of verbal fluency (forgetting words) that is common in PD, with the solution predicting words based on conversation context and previous usage.
 
-We can also hope that the machine learning algorithm may support the loss of verbal fluency (forgetting words) that is common in PD.  The solution could predict words based on conversation context and previous usage.
-
+The implementation of this system will require a diverse skill set to design the best solution for gathering and analyzing the data, building a language model, and finally creating a hardware solution for the patient to use in the later stages of the disease. For example, an optimal wearable device needs to be created, ensuring the design does not impede the wearer's lifestyle (particularly while they are still active). Also, once the patient needs the enhancement function, the latency between vocalization and playing the enhancement needs to be near real-time.
 
 ## The impact
 
-While experiencing a disease that causes loss of voice is never going to be pleasant, this solution could have a groundbreaking psychological impact as it means that the sufferer does not end up isolated in the last few months or years of their life.  Also, it lends itself to future innovations such as brain-computer interface (BCI), which could be leveraged to directly interface with the system.
+Currently, the solution may not work for all sufferers, as towards the end of some of these diseases it may no longer be possible to read the signals from the patient. At that point, the system can switch to the traditional alternative-input methods. However, the learned voice synthesis, speech patterns and vocabulary can continue to be utilized allowing the person to speak with their own voice and words.
 
-Any implementation will require an eclectic group of skills, for example, to ensure that the design is not impeding the wearer's lifestyle (particularly while they are still active), that the processing of data is optimal, and the latency in the enhanced voice is near real-time.
-
-Currently, the solution may not work for all sufferers, as towards the end of some of these diseases it may no longer be possible to read the signals from the patient.  At that point, the system can switch to the traditional alternative-input methods.  However, the learned voice synthesis, speech patterns and vocabulary can continue to be utilized allowing the person to speak with their own voice and words, keeping them part of the family and society.
-
+While experiencing a disease that causes loss of voice is never going to be easy for the patient, this tailored and customizable solution could have a positive psychological and meaningful impact on quality of life for suffers of degenerative neurological diseases. Our solution also may lend itself to future innovations such as brain-computer interface (BCI), which could be leveraged to interface with the system.
  
