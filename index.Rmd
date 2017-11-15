@@ -21,7 +21,7 @@ Investing in less developed countries and markets can provide investors with ext
 
 ### Abstract of my second cool idea
 
-A sad fact to anyone suffering from a degenerative neurological disease, such as Parkinson’s Disease (PD) or ALS, is that they will lose their voice eventually. To lessen this impact of these diseases, our idea is to design a tool, building on current technology and using data science concepts that will improve the patient’s quality of life through voice simulation and enhancement.
+A sad fact to anyone suffering from a degenerative neurological disease, such as Parkinson’s Disease (PD) or ALS, is that they will lose their voice eventually. To lessen this impact of these diseases, our idea is to design a tool, building on current technology and incorporating data science concepts that will improve the patient’s quality of life near the end stages of the disease. 
 
 ## About the author
 
