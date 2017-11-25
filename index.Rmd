@@ -17,7 +17,7 @@ library(magrittr)
 
 ### Abstract of my first cool idea
 
-Investing in less developed countries and markets can provide investors with extra returns. But with the additional returns, comes additional risk. One problem with investing in frontier markets is that key macroeconomic data is not always readily available, timely and independent from government officials, making it difficult for investors, and others, to get a clear view of the economy.  We will create independent datasets, using publicly available online data. We focus on Middle East countries, where the population is relatively wealthy and online shopping is gaining more traction. Using published data from major grocery stores, online shopping sites and other services, we aim to create a key dataset, such as a consumer price index, which can be used to analyze inflation trends and business cycles.
+Foreign investment in frontier markets, including several Middle Eastern countries, are often seen as higher risk due to several factors, one of which is the reliability and availability of economic data. Poor quality data are disadvantageous to potential investors, and other stakeholders as well as the countries seeking foreign investment. Middle East countries are relatively wealthy with strong consumer spending and a shift to online spending means that there is more private online data available to create independent, verifiable economic data, including consumer price indices, which would help investors and other stakeholders make better economic and financial decisions.
 
 ### Abstract of my second cool idea
 
