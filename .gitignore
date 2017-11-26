@@ -24,3 +24,5 @@
 !docs/*/*/*/*/*
 !docs/*/*/*/*/*/*
 .Rproj.user
+!_book
+!_book/*
