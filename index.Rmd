@@ -15,16 +15,17 @@ library(magrittr)
 # Welcome! {-}
 
 <p>
-```{r echo=FALSE,fig.cap='Paul Durkin',fig.align='center'}
+```{r echo=FALSE,fig.align='center'}
 knitr::include_url('https://drive.google.com/file/d/10lWiWs1VTUMzKUO82jt6yaRtwok9L53z/preview')
 ```
 
-## Abstract of my first cool idea {-}
+
+## Giving people back their voice {-}
 
 A sad fact to anyone suffering from a degenerative neurological disease, such as Parkinson’s Disease (PD) or ALS, is that they will lose their voice eventually. To lessen this impact of these diseases, our idea is to design a tool, building on current technology and incorporating data science concepts that will improve the patient’s quality of life near the end stages of the disease. 
 
 
-## Abstract of my second cool idea {-}
+## Lowering the risk of frontier markets {-}
 
 Foreign investment in frontier markets, including several Middle Eastern countries, are often seen as higher risk due to several factors, one of which is the reliability and availability of economic data. Poor quality data are disadvantageous to potential investors, and other stakeholders as well as the countries seeking foreign investment. Middle East countries are relatively wealthy with strong consumer spending and a shift to online spending means that there is more private online data available to create independent, verifiable economic data, including consumer price indices, which would help investors and other stakeholders make better economic and financial decisions.
 
