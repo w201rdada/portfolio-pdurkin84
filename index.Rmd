@@ -14,6 +14,10 @@ library(magrittr)
 
 # Welcome! {-}
 
+<p>
+```{r echo=FALSE,fig.cap='Paul Durkin',fig.align='center'}
+knitr::include_url('https://drive.google.com/open?id=10lWiWs1VTUMzKUO82jt6yaRtwok9L53z')
+```
 
 ## Abstract of my first cool idea {-}
 
