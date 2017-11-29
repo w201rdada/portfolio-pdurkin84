@@ -1,16 +1,16 @@
-# Voice to the voiceless {#lostvoicesynthesis}
+# Voice to the voiceless {#lostvoicesynthesis} {-}
 
-#### Keywords
+#### Keywords {-}
 
 Voice loss, ALS, Parkinson’s, Motor Neuron, voice synthesis, machine learning, langue model, quality of life
 
-## Going quietly
+## Going quietly {-}
 
 Imagine you are told that in the future you will stop talking, never again to share a joke, advise your children or tell your spouse that you love them. Some diseases such as Parkinson’s Disease (PD), ALS and Motor Neuron Disease have symptoms that include the loss of the person’s voice as the disease progresses. As described by Professor Stephen Hawking, the loss of his voice due to his motor neuron disease is “one of the most frightening and isolating aspects of the illness”.
 
 Current technology provides some support for these patients: for example, devices that provide voice amplification or alternative input methods (where keyboards are manipulated by whatever muscles are still under control of the user). Our idea is to use a combination of existing technologies to create a seamless solution that will amplify a patient’s deteriorating speech with their own voice and vocabulary.
 
-## Return of voice: lost voice synthesis
+## Return of voice: lost voice synthesis {-}
 
 Advances in technologies such as machine learning, natural language processing, and voice synthesis can be used to measure a patient’s voice and reproduce it even after it has become too silent or slurred to be understood. In the earlier stages of these diseases, while the individual can communicate effectively, discrete sensors on and around the body can be used to record the movements of muscles and face, sounds, and vibrations in the throat.
 
@@ -18,7 +18,7 @@ The goal is to create a database of the patient’s typical speech patterns and 
 
 In the later stages of the disease, when the patient’s voice fades, a function to enhance their voice is enabled, allowing the user to remain in communication with the world around them. We also believe that the machine learning algorithm may support the loss of verbal fluency (forgetting words) that is common in PD, with the solution predicting words based on conversation context and previous usage.
 
-## The impact
+## The impact {-}
 
 The implementation of this system will require a diverse skill set to design the best solution for gathering and analyzing the data, building a language model, and finally optimizing the enhancement for the patient to use in the later stages of the disease. For example, an optimal wearable device needs to be created, ensuring the design does not impede the wearer's lifestyle (particularly while they are still active). Also, once the patient needs the enhancement function, the latency between vocalization and playing the enhancement needs to be near real-time.
 

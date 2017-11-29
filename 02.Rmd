@@ -1,24 +1,24 @@
-# Improving Data in Frontier Markets: Creating Independent Consumer Price Index {#reliablemacrodata}
+# Improving Data in Frontier Markets: Creating Independent Consumer Price Index {#reliablemacrodata} {-}
 
-#### Keywords
+#### Keywords {-}
 
 Middle East, Frontier Markets, Macroeconomic data, CPI,
 
-### Frontier markets: limited by poor data?
+### Frontier markets: limited by poor data? {-}
 Many Middle Eastern countries have limited data sets, collected over a much shorter period. While basic economic statistics are collected by these countries, they may be considered unreliable, inadequate and untimely by external investors and stakeholders wanting to make informed economic and financial decisions. 
 
 Several Middle East countries are considered to be frontier markets by investment classifications (such as the S&P), classified below emerging markets as they are too small to meet the criteria. While they may be small, many of these countries are relatively wealthy with GDP per capita significantly greater than emerging economies and close to some developed countries. Several Middle East countries such as Bahrain, Jordan, Kuwait, Lebanon, Oman, Qatar and the United Arab Emirates are classified at frontier economies. 
 
 While these countries are relatively wealthy (often due to natural resources), their statistical agencies are underdeveloped, and there is not enough good reliable economic data. As a result, investors and other stakeholders such as non-profit agencies, development and aid agencies, may not have full information about these countries economies to make informed financial and economic decisions. 
 
-### Creating independent, timely datasets
+### Creating independent, timely datasets {-}
 To help investors and other stakeholders make better decisions about frontier markets economies, we will provide an independent collection and presentation of the consumer price data that will be produced on a monthly basis.  We will focus initially on prices, attempting to create an independent consumer price index (CPI), used to calculate the inflation rate. (CPI is price index comprised of a typical basket of goods and services including food, services, and transport.) The first step will be to create price baskets of goods and services for the countries covered.
 
 Given the wealth in the region, consumers are a strong part of the economy and online shopping is starting to take off. Recently, two major grocery stores in the region moved to online platforms. Amazon bought a local online shopping site. While service prices are more complicated, things like tuition can be easily scraped from school websites, and rent and used auto prices from local on-line sites, similar to Craigslist.  
 
 We will implement a weekly scrape of the sites and begin a database of product and service prices. Given the multi-cultural makeup of these countries and the vast disparity between incomes classes, it will be prudent to create multiple baskets reflecting typical buying patterns within the groups. Knowledge of the countries cultures and traditions, which impact consumers decisions and pricing trends, could be added to the analysis.  
 
-### Better data, better decisions
+### Better data, better decisions {-}
 Once completed, we will have an independent verification of the data presented by each nation, which can be compared alongside the official government statistics. These independent data could help give stakeholders more confidence on how these economies are performing. 
 
 However, there will still be some uncertainty as some data that would typically be easily collected in other countries, for example, things like transport and healthcare, could not be gleaned from the internet. Moreover, to assure investors that the index is not a "black box", we would be transparent in the data calculations, data set, and assumptions.
