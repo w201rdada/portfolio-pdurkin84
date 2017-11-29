@@ -15,17 +15,17 @@ library(magrittr)
 # Welcome! {-}
 
 
-## Abstract of my first cool idea
+## Abstract of my first cool idea {-}
 
 A sad fact to anyone suffering from a degenerative neurological disease, such as Parkinson’s Disease (PD) or ALS, is that they will lose their voice eventually. To lessen this impact of these diseases, our idea is to design a tool, building on current technology and incorporating data science concepts that will improve the patient’s quality of life near the end stages of the disease. 
 
 
-## Abstract of my second cool idea
+## Abstract of my second cool idea {-}
 
 Foreign investment in frontier markets, including several Middle Eastern countries, are often seen as higher risk due to several factors, one of which is the reliability and availability of economic data. Poor quality data are disadvantageous to potential investors, and other stakeholders as well as the countries seeking foreign investment. Middle East countries are relatively wealthy with strong consumer spending and a shift to online spending means that there is more private online data available to create independent, verifiable economic data, including consumer price indices, which would help investors and other stakeholders make better economic and financial decisions.
 
 
-## About the author
+## About the author {-}
 
 The author is a long in the tooth technology acolyte who has had many areas of specialty over a varied career.
 
