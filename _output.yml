@@ -1,9 +1,9 @@
 bookdown::gitbook:
-  number_sections: FALSE
+  number_sections: TRUE
   dev: svglite
   split_by: chapter
   split_bib: TRUE
-  toc_depth: 3
+  toc_depth: 2
   config:
     toc:
       collapse: section
@@ -11,7 +11,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Paul Durkin</a></li>
       after: |
-         <li><a href="https://drive.google.com/open?id=10lWiWs1VTUMzKUO82jt6yaRtwok9L53z" target="blank">Paul Durkin</a></li>
+        <li><a href="https://drive.google.com/open?id=10lWiWs1VTUMzKUO82jt6yaRtwok9L53z" target="blank">Paul Durkin</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/oski-bear" target="blank">UC Berkeley</a></li>
     sharing:
       facebook: no
@@ -21,5 +21,5 @@ bookdown::gitbook:
       instapper: no
       vk: no
       all: no
-    edit: https://github.com/w201rdada/portfolio-pdurkin84/edit/master/%s
+    edit: https://github.com/w201rdada/portfolio-brooksambrose/edit/master/%s
     download: null
