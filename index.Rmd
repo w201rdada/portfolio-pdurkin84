@@ -17,7 +17,7 @@ This is an introduction to the ideas Paul has been working on, we hope you enjoy
 
 <p>
 ```{r echo=FALSE,fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/10lWiWs1VTUMzKUO82jt6yaRtwok9L53z/preview')
+knitr::include_url('voice.mp4')
 ```
 
 
@@ -34,5 +34,8 @@ Foreign investment in frontier markets, including several Middle Eastern countri
 ## About the author {-}
 
 Paul Durkin is a long in the tooth technology acolyte who has had many areas of specialty over a varied career.  Having first tried his hand at programming in the early 80s he progressed through a degree in computer science into a 25 year career in technology.  Currently he is attending the UC Berkely Master of information and Data Science program full time.
+```{r echo=FALSE,fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/10lWiWs1VTUMzKUO82jt6yaRtwok9L53z/preview')
+```
 
 *Updated: `r Sys.Date()`*
