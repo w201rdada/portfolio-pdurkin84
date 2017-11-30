@@ -3,7 +3,7 @@ bookdown::gitbook:
   dev: svglite
   split_by: chapter
   split_bib: TRUE
-  toc_depth: 2
+  toc_depth: 1
   config:
     toc:
       collapse: section
@@ -11,7 +11,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Paul Durkin</a></li>
       after: |
-        <li><a href="https://www.ischool.berkeley.edu/people/paul-durkin" target="blank">UC Berkeley</a></li>
+        <li><a href="https://github.com/w201rdada/portfolio-pdurkin84" target="blank">GitHub</a></li>
+        <li><a href="https://www.ischool.berkeley.edu/people/i-wae-niu" target="blank">UC Berkeley</a></li>
         <li><a href="https://www.linkedin.com/in/paul-durkin-91138a" target="blank">LinkedIn</a></li>
     sharing:
       facebook: no
@@ -21,5 +22,5 @@ bookdown::gitbook:
       instapper: no
       vk: no
       all: no
-    edit: https://github.com/w201rdada/portfolio-brooksambrose/edit/master/%s
-    download: null
+    edit: https://github.com/w201rdada/portfolio-pdurkin84/edit/master/%s
+download: null
