@@ -11,8 +11,13 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Paul Durkin</a></li>
       after: |
+<<<<<<< HEAD
         <li><a href="https://github.com/w201rdada/portfolio-pdurkin84" target="blank">GitHub</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/i-wae-niu" target="blank">UC Berkeley</a></li>
+=======
+        <li><a href="https://github.com/pdurkin84" target="blank">GitHub</a></li>
+        <li><a href="https://www.ischool.berkeley.edu/people/paul-durkin" target="blank">UC Berkeley</a></li>
+>>>>>>> 25dc4ef67dde1df82b6a1bad5f11239594feac67
         <li><a href="https://www.linkedin.com/in/paul-durkin-91138a" target="blank">LinkedIn</a></li>
     sharing:
       facebook: no
@@ -23,4 +28,8 @@ bookdown::gitbook:
       vk: no
       all: no
     edit: https://github.com/w201rdada/portfolio-pdurkin84/edit/master/%s
+<<<<<<< HEAD
 download: null
+=======
+    download: null
+>>>>>>> 25dc4ef67dde1df82b6a1bad5f11239594feac67
